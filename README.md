@@ -11,4 +11,16 @@ Create timer range 10 sec - 99 min with multi function shield use in board FRDM 
 - Interrupt PORTB
 # How it work
 > At start status min is 0 and sec is 0
-![](https://user-images.githubusercontent.com/89478647/206268784-d08453e0-63b9-487e-b676-4de5b8c340a3.jpg = 250x250)
+<p align="center">
+  <img width="300" src="https://user-images.githubusercontent.com/89478647/206271479-1b03ed03-654a-4bd4-9d03-888824c7827b.jpg">
+</p>
+
+> Switch 1 (Count from left) : Increase +20 second
+> <br>Switch 2 : Decrease -20 second
+> <br>Switch 3 : Start timer
+# Progress timer 
+when timer is 0 : 0 buzzer and LED will turn on (while process LED will turn on from bottom to top)
+
+<img width="300" src="https://user-images.githubusercontent.com/89478647/206280515-cb427792-f326-43d1-818e-199c3eacf772.jpg">
+<img width="300" src="https://user-images.githubusercontent.com/89478647/206280797-9f4a9d29-0d6d-4ce3-bf21-ac0fad48a5c6.jpg">
+<img width="300" src="https://user-images.githubusercontent.com/89478647/206286238-8badf2ff-5111-4181-83a6-fa20dc8f2a5b.jpg">

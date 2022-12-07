@@ -9,3 +9,6 @@ Create timer range 10 sec - 99 min with multi function shield use in board FRDM 
 # What function use in my source code?
 - Timer with FTM and Systick
 - Interrupt PORTB
+# How it work
+> At start status min is 0 and sec is 0
+![](https://user-images.githubusercontent.com/89478647/206268784-d08453e0-63b9-487e-b676-4de5b8c340a3.jpg = 250x250)
